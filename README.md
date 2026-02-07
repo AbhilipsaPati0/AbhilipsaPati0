@@ -40,6 +40,7 @@ My journey started with **data analysis & visualization**, and now I’m expandi
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
 </p>
 
