@@ -115,7 +115,7 @@ My journey started with **data analysis & visualization**, and now I’m expandi
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhilipsaPati0&show_icons=true&theme=tokyonight" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhilipsaPati0&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
