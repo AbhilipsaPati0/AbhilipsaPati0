@@ -42,6 +42,8 @@ My journey started with **data analysis & visualization**, and now I’m expandi
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/DAX-1E88E5?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Databases & Tools
@@ -110,6 +112,7 @@ My journey started with **data analysis & visualization**, and now I’m expandi
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhilipsaPati0&show_icons=true&theme=tokyonight" />
 </p>
@@ -117,6 +120,7 @@ My journey started with **data analysis & visualization**, and now I’m expandi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhilipsaPati0&theme=tokyonight" />
 </p>
+
 
 ---
 
