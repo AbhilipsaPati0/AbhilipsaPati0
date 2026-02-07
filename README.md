@@ -1,3 +1,4 @@
+<h1>Abhilipsa Pati</h1>
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abhilipsa+Pati+%F0%9F%91%8B;Data+Analytics+%7C+Applied+AI+%7C+Full+Stack+Learner;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Scalable+Systems+%F0%9F%9A%80" />
