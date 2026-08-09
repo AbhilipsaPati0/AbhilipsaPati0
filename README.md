@@ -109,6 +109,8 @@ Leave management workflow on SAP handling requests, approvals, and balance track
 ![Abhilipsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhilipsaPati0&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilipsaPati0&layout=compact&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhilipsaPati0&theme=default&hide_border=true)
+
 ---
 
 ## Strengths
