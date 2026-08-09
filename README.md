@@ -6,8 +6,8 @@
 *Turning raw data into decisions worth acting on — and building the systems that generate that data in the first place.*
 
 [![Email](https://img.shields.io/badge/Email-abhilipsapati2%40gmail.com-1F5F5B?style=flat-square&logo=gmail&logoColor=white)](mailto:abhilipsapati2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhilipsa--pati-1F5F5B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilipsa-pati)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-B8862E?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/AbhilipsaPati0/MyPortfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhilipsa--pati0-1F5F5B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilipsa-pati0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-B8862E?style=flat-square&logo=googlechrome&logoColor=white)](https://abhilipsapati0.github.io/MyPortfolio/)
 
 </div>
 
