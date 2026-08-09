@@ -1,143 +1,128 @@
-<h1>Abhilipsa Pati</h1>
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abhilipsa+Pati+%F0%9F%91%8B;Data+Analytics+%7C+Applied+AI+%7C+Full+Stack+Learner;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Scalable+Systems+%F0%9F%9A%80" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header"/>
-</p>
+# Hi, I'm Abhilipsa Pati 👋
+### Data Analyst · Applied AI · Full-Stack Engineering
 
----
+*Turning raw data into decisions worth acting on — and building the systems that generate that data in the first place.*
 
-## 👩‍💻 About Me
+[![Email](https://img.shields.io/badge/Email-abhilipsapati2%40gmail.com-1F5F5B?style=flat-square&logo=gmail&logoColor=white)](mailto:abhilipsapati2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhilipsa--pati-1F5F5B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilipsa-pati)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-B8862E?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/AbhilipsaPati0/MyPortfolio)
 
-🎓 **Computer Science Engineering student (2023–2027)**  
-📍 Centurion University of Technology & Management, Bhubaneswar  
-⭐ **CGPA: 9.2**
-
-I’m a **Data Analytics + Applied AI enthusiast** with a growing foundation in **full-stack development**.  
-I love working at the intersection of **data, business insights, and scalable software systems**.
-
-My journey started with **data analysis & visualization**, and now I’m expanding into  
-**Java, Spring Boot, React, and MongoDB** to build **end-to-end, data-driven applications**.
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## About Me
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,sql" />
-</p>
+🎓 B.Tech, Computer Science Engineering (2023–2027) — Centurion University of Technology & Management, Bhubaneswar
+⭐ CGPA: 9.2
 
-### 🌐 Backend & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,html,css,js" />
-</p>
-
-### 📊 Data Analytics & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/DAX-1E88E5?style=for-the-badge"/>
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
-</p>
+I work at the intersection of data analytics and applied software engineering. My foundation is in data analysis and visualization — cleaning datasets, building dashboards, and surfacing insights that drive business decisions. I've since expanded into full-stack development (Java, Spring Boot, React, MongoDB) and enterprise systems through SAP, so I can build the tools I analyze data with, not just the dashboards on top of them.
 
 ---
 
-## 💼 Experience
+## Tech Stack
 
-### 📊 Data Analytics Intern — **NoviTech** (Remote)
-- Cleaned and analyzed real-world datasets  
-- Built analytical reports using **Python, SQL, Excel**
-- Assisted in dashboard creation and insight extraction
+**Languages**
+`Python` `Java` `SQL` `JavaScript`
 
-### 🧑‍💻 Full Stack Intern — **Edutech Company**
-- Worked on **backend logic and UI integration**
-- Exposure to **Java, APIs, and database handling**
-- Improved understanding of production-level applications
+**Backend & Frontend**
+`Spring Boot` `Angular` `React` `REST APIs` `HTML/CSS`
 
-### 📌 Member — **Data Analytics Club**
-- Participated in workshops & collaborative projects  
-- Built dashboards and business insight reports
+**Data Analytics & Visualization**
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI (DAX)` `Excel (Power Query)`
 
----
+**Databases & Tools**
+`MySQL` `MongoDB` `Git/GitHub`
 
-## 🚀 Featured Projects
-
-### 🛒 **Smart Retail Intelligence System (AI)**
-**Tech:** Python, SQL, Power BI, Pandas, ML  
-- End-to-end retail analytics pipeline  
-- Sales forecasting using regression models  
-- Power BI dashboards (Executive, Performance, External Factors)  
-- Rule-based + Generative AI insights (OpenAI integration attempt)
-
-👉 *This project demonstrates my strength in analytics + business thinking.*
+**Enterprise Systems**
+`SAP ABAP` `SAP Fiori` `SAP IBP`
 
 ---
 
-### 🏥 **Hospital Management System**
-**Tech:** Java, Spring Boot, React, MySQL/MongoDB  
-- Role-based system (Admin, Doctor, Patient)  
-- Appointment scheduling & records management  
-- Backend APIs with Spring Boot  
-- Scalable full-stack architecture
+## Experience
 
-👉 *Shows my transition from analytics → full-stack engineering.*
+**Data Analytics Intern** — Infotact Solutions *(Remote)*
+- Cleaned and analyzed real-world datasets using Python, SQL, and Excel
+- Built analytical reports and assisted in dashboard creation for insight extraction
 
----
+**Software Development Intern** — Edutech Company
+- Worked on backend logic and UI integration using Java, Spring Boot, and Angular
+- Gained exposure to production-level API design and database handling
 
-### 📈 **Advanced Retail Analytics**
-**Tech:** Python, SQL, Excel, Power BI  
-- Sales & customer behavior analysis  
-- KPI-driven dashboards  
-- Business-ready insights
+**Member** — Data Analytics Club
+- Participated in workshops and collaborative analytics projects
+- Built dashboards and business insight reports as part of team engagements
 
 ---
 
-### 🎯 **Performance & Grade Analysis Dashboard**
-**Tech:** Excel, Power BI, DAX  
-- SGPA/CGPA logic implementation  
-- Academic performance tracking dashboard
+## Certifications
+
+**SAP**
+- SAP ABAP
+- SAP Fiori
+- SAP IBP (Integrated Business Planning)
+
+**Internship Certifications**
+- Data Analytics — Infotact Solutions
+- Software Development — Edutech
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
+
+### 🛒 Smart Retail Intelligence System (AI)
+`Python` `SQL` `Power BI` `Pandas` `ML`
+End-to-end retail analytics pipeline with sales forecasting via regression models, executive/performance/external-factor Power BI dashboards, and a rule-based + generative AI insight layer.
+This project is the clearest demonstration of where analytics meets business thinking in my work.
+
+### 🏥 Hospital Management System
+`Java` `Spring Boot` `React` `MySQL/MongoDB`
+Role-based system (Admin, Doctor, Patient) covering appointment scheduling and records management, with backend APIs built on Spring Boot in a scalable full-stack architecture.
+Marks the transition from pure analytics into full-stack engineering.
+
+### 📈 Advanced Retail Analytics
+`Python` `SQL` `Excel` `Power BI`
+Sales and customer behavior analysis distilled into KPI-driven, business-ready dashboards.
+
+### 🎯 Performance & Grade Analysis Dashboard
+`Excel` `Power BI` `DAX`
+Custom SGPA/CGPA calculation logic behind an academic performance tracking dashboard.
+
+### 🏙️ Urban Life Intelligence System
+`Python` `SQL` `Power BI`
+Analysis of urban growth and infrastructure data to surface trends in population density and land use for planning decisions.
+
+### 🧳 SAP Travel Booking System
+`SAP`
+Travel booking application built on SAP, covering trip requests, approvals, and booking workflows end to end.
+
+### 🗓️ SAP Employee Leave Management System
+`SAP`
+Leave management workflow on SAP handling requests, approvals, and balance tracking for employees.
+
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhilipsaPati0&theme=tokyonight" />
-</p>
----
+## GitHub Activity
 
-## 🌐 Connect With Me
-
-📧 **Email:** abhilipsapati2@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/abhilipsa-pati  
-💻 **GitHub:** https://github.com/AbhilipsaPati0  
+![Abhilipsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhilipsaPati0&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilipsaPati0&layout=compact&hide_border=true)
 
 ---
 
-## ✨ Strengths
-✔ Data-driven mindset  
-✔ Strong problem-solving skills  
-✔ Clear communication  
-✔ Fast learner & growth-oriented  
-✔ Balanced **Analytics + Development** profile  
+## Strengths
+
+✔ Data-driven mindset
+✔ Strong problem-solving skills
+✔ Clear communication
+✔ Fast learner, growth-oriented
+✔ Balanced analytics + development profile
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
-</p>
+<div align="center">
 
-⭐️ *Building today what my future self will be proud of.*
+*Building today what my future self will be proud of.*
+
+</div>
